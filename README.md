@@ -1,1 +1,1 @@
-# Mini-Project-LTTS
+# Tic-Tac-Toe Game
